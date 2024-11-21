@@ -6,11 +6,13 @@
 
 Here are some projects that I am working on...
 
-NEXIS Financial Sentiment Analysis
-project_1.link
+- NEXIS Financial Sentiment Analysis
 
-Artificial Intelligence in the Legal Sector
-project_2.link
+  project_1.link
+
+- Artificial Intelligence in the Legal Sector
+
+  project_2.link
 
 
 <!--
