@@ -6,7 +6,7 @@
 
 Here are some projects that I am working on...
 
-- NEXIS Financial Sentiment Analysis
+- NEXIS Financial Headline Sentiment Analysis
 
   project_1.link
 
