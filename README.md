@@ -1,18 +1,8 @@
 ## Hello world, I'm Lauren!
 
-🎓 Junior at Syracuse University, studying Applied Data Analytics
+🎓 Senior at Syracuse University, studying Applied Data Analytics
 
-🔭 Aspiring Data Scientist & Machine Learning Engineer within the Healthcare Industry
-
-Here are some projects that I am working on...
-
-- NEXIS Financial Headline Sentiment Analysis
-
-  project_1.link
-
-- Artificial Intelligence in the Legal Sector
-
-  project_2.link
+🔭 Aspiring Data Scientist & Machine Learning Engineer
 
 
 <!--
